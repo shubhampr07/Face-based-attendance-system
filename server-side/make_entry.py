@@ -24,10 +24,10 @@ def make_student_entry_to_database(image_path: str, student_id: int, university:
 make_student_entry_to_database(
     image_path = './pp.jpg',
     student_id = 66, 
-    university = 'IUKL', 
-    first_name = 'Manoj', 
+    university = 'IEM', 
+    first_name = 'Shubham', 
     middle_name = '', 
-    last_name = 'Shrestha', 
+    last_name = 'Mandal', 
     semester = 6, 
-    course = 'BCS (Hons)'
+    course = 'Btech'
 )
